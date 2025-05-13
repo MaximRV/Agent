@@ -40,5 +40,7 @@
 * POST /recommend: Эндпоинт для получения рекомендаций по введенному сроку вклада.
 
 * ## Интерфейс
-* ![image](https://github.com/user-attachments/assets/7c508130-3910-490e-9985-fbe7b00e74f9)
+![image](https://github.com/user-attachments/assets/9703fa6b-a05a-45cd-9026-8cac9b21c7d4)
+
+
 
